@@ -1,0 +1,8 @@
+D:\Works\BackendAPI\Helper.DBHelper\bin\Debug\Helper.DBHelper.dll
+D:\Works\BackendAPI\Helper.DBHelper\bin\Debug\Helper.DBHelper.pdb
+D:\Works\BackendAPI\Helper.DBHelper\obj\Debug\Helper.DBHelper.dll
+D:\Works\BackendAPI\Helper.DBHelper\obj\Debug\Helper.DBHelper.pdb
+D:\Works\NetLibrary\Helper.DBHelper\bin\Debug\Helper.DBHelper.dll
+D:\Works\NetLibrary\Helper.DBHelper\bin\Debug\Helper.DBHelper.pdb
+D:\Works\NetLibrary\Helper.DBHelper\obj\Debug\Helper.DBHelper.dll
+D:\Works\NetLibrary\Helper.DBHelper\obj\Debug\Helper.DBHelper.pdb

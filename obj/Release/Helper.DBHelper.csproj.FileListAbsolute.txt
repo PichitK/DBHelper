@@ -1,0 +1,5 @@
+D:\Works\NetLibrary\Helper.DBHelper\bin\Release\Helper.DBHelper.dll
+D:\Works\NetLibrary\Helper.DBHelper\bin\Release\Helper.DBHelper.pdb
+D:\Works\NetLibrary\Helper.DBHelper\obj\Release\Helper.DBHelper.dll
+D:\Works\NetLibrary\Helper.DBHelper\obj\Release\Helper.DBHelper.pdb
+D:\Works\NetLibrary\Helper.DBHelper\obj\Release\Helper.DBHelper.csprojResolveAssemblyReference.cache
