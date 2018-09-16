@@ -8,3 +8,4 @@
 6. try rebase
 2. add from check2
 4. try again
+4.1 before rebase
